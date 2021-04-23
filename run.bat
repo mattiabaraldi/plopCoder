@@ -1,1 +1,1 @@
-cmd /k "cd venv\Scripts & activate & cd.. & cd.. & py main.py"
+cmd /k "venv\Scripts\python.exe main.py"
